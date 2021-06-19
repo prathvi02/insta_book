@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "88256557975",
+    "project_id": "instabook-cb014",
+    "storage_bucket": "instabook-cb014.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88256557975:android:7ad6c6da79f8fdac944ad2",
+        "android_client_info": {
+          "package_name": "com.prathvi.instabook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88256557975-qve9u6ucb6opjj1rtl6qct25v16tc3s4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prathvi.instabook",
+            "certificate_hash": "38048a07ede8c2fac14b33edf31fe92d7671aa90"
+          }
+        },
+        {
+          "client_id": "88256557975-2sibl230avr306iujo9lrhhtan1djf9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Aoej0ZwVqaVSREnqZGd39FFatyZ_L8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88256557975-2sibl230avr306iujo9lrhhtan1djf9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
